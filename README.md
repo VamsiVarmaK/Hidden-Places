@@ -1,1 +1,2 @@
 # Hidden-Places
+After acquiring data from ‘DC Department of Health Online Food Facilities Inspection’, IRS, Yelp and Zillow, Machine learning models such as Linear Regression, Random forest, P.C.A, Gradient Boosting and Logistic Regression (for classification) have been built and utilized to predict the chances for a critical violation to occur in future. Achieved a prediction accuracy of 94.4% before the model over fits.
